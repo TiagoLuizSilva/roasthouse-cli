@@ -53,7 +53,7 @@ git clone https://github.com/TiagoLuizSilva/roasthouse-cli.git
 2. Acesse a pasta: 
 
 ```bash
-cd RoastHouse
+cd roasthouse-cli
 ```
 
 

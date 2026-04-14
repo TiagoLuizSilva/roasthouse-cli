@@ -112,4 +112,4 @@ def vender(arq):
     except:
         print('Houve um erro ao tentar vender o produto.')
     else:
-        print('Produto vendido com sussesso')
+        print('Produto vendido com sucesso')
